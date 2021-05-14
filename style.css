@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: black;
+  margin-left: 50px;
+}
+h2 {
+  text-align: left;
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+}
+h3 {
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  color: #594a41;
+}
+.general_ed {
+  background-color: rgba(230, 200, 166, 0.863);
+}
+.general_ed ul li {
+  background-color: #fffbd7d0;
+}
+.specific_ed {
+  background-color: rgba(230, 200, 166, 0.863);
+}
+.specific_ed ul li {
+  background-color: #fffbd7d0;
+}
+ul li.passed {
+  color: forestgreen;
+}
+ul li.studying {
+  color: orange;
+}
+img.logo {
+  margin: 10px 0 0 15px;
+  width: 55px;
+  height: 60px;
+}
